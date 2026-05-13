@@ -6,8 +6,6 @@ Autor: Antonio Vico Lizarte
 
 Fecha: 15 de mayo de 2026
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png)
-
 ## Planteamiento
 
 En esta PEC voy a trabajar dos casos actuales de hibridación desde la mirada de Lev Manovich.He elegido Catapult y Webflow porque los dos me parece bastante claros y porque dejan ver muy bien como el software no solo junta cosas distintas sino que cambia la forma en la que las usamos y las entendemos.
@@ -22,7 +20,7 @@ También me parece interesante porque los dos casos enseñan dos tipos de hibrid
 
 
 ## Re-descubriendo la hibridacion: Caso 1
-![Catapult](catapult.jpg)
+<img src="catapult.jpg" alt="Catapult" width="500">
 
 Catapult es una plataforma que se usa para controlar y analizar el rendimiento de deportistas a través de dispositivos de seguimiento y herramientas de vídeo sincronizado. No se queda en medir cosas sueltas sino que convierte el movimiento del jugador en información que luego se puede leer comparar y visualizar dentro del software.
 
@@ -41,7 +39,7 @@ Por eso creo que este caso funciona tan bien para la PEC. La hibridación no est
 Además esto conecta bastante con una idea central de Manovich. Cuando los medios se vuelven computables dejan de ser solo objetos para mirar y pasan a ser objetos sobre los que se puede operar. Eso es justo lo que veo aquí. Catapult no solo muestra el juego. Lo convierte en algo manipulable desde datos y algoritmos.
 
 ## Re-descubriendo la hibridacion: Caso 2
-![Webflow](webflow.jpg)
+<img src="webflow.jpg" alt="Webflow" width="500">
 
 Webflow es una plataforma de desarrollo visual para crear sitios web. Lo interesante no es solo que te deje diseñar una página de forma más cómoda. Lo importante es que mezcla en una sola herramienta cosas que antes iban bastante separadas como el diseño visual la estructura web la maquetación responsive la gestión del contenido y parte de la lógica de publicación.
 
